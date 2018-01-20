@@ -3,15 +3,21 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import moment from 'moment'
+import store from './store/state'
+import axios from 'axios'
 
 
 Vue.config.productionTip = false
 
 
+Vue.prototype.moment =  moment
+Vue.prototype.axios = axios
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
   router,
+  store,
   template: '<App/>',
   components: { App }
 })

@@ -1,16 +1,29 @@
-const express = require('express')
-const app = express()
-const cors = require('cors')
-const router = require('./router/router')
-const db = require('./models/db')
+var app = require('express')();
+var server = require('http').Server(app);
+var io = require('socket.io')(server);
 
-// 设置跨域
-app.use(cors())
-// 设置路由
-app.get('./login',router.doLogin)
-app.get('./regist',router.doRegist)
+server.listen(3000);
 
 
-
-
-app.listen(3000)
+var num=0;
+//io.on来监听是否有客户端连接，emit监听事件，on发送事件
+io.on('connection', function (socket) {
+  num++;
+  console.log(num)
+  console.log("正在监听客户端的连接...")
+  socket.on('chat', function (msg) {
+    socket.broadcast.emit('chat', msg)
+    console.log(msg)
+  })
+  socket.on('online', function (msg) {
+    io.emit('online', msg)
+    io.emit("num", num)
+    console.log(msg+"已经连接")
+  })
+  socket.on("disconnect", function () {
+    num--;
+    io.emit("num", num)
+    console.log("用户失去连接")
+    console.log(num)
+  })
+});
