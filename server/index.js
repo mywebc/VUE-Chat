@@ -1,8 +1,26 @@
 var app = require('express')();
 var server = require('http').Server(app);
 var io = require('socket.io')(server);
+var axios= require('axios')
+var cors=require('cors')
 
 server.listen(3000);
+
+// 设置跨域
+app.use(cors())
+
+// 机器人请求(青云客)
+app.get("/robot",function (req,res,next) {
+  var url = "http://api.qingyunke.com/api.php"
+  axios.get(url,{
+    params:req.query
+  }).then((response)=>{
+    res.json(response.data)
+  }).catch((e)=>{
+    console.log(e)
+  })
+})
+
 
 
 var num=0;

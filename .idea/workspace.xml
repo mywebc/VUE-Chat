@@ -17,14 +17,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webChat/src/main.js">
+      <file leaf-file-name="webpack.base.conf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webChat/build/webpack.base.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-              <folding>
-                <element signature="e#140#161#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="750">
+              <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -32,8 +30,8 @@
       <file leaf-file-name="ai.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webChat/src/views/ai.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="62" column="22" lean-forward="true" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+            <state relative-caret-position="400">
+              <caret line="65" column="24" lean-forward="false" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
@@ -43,59 +41,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webpack.base.conf.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webChat/build/webpack.base.conf.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webChat/src/App.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chat.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webChat/src/views/chat.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="372" column="30" lean-forward="false" selection-start-line="372" selection-start-column="30" selection-end-line="372" selection-end-column="30" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#transition#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#transition#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#1;n#div#0;n#transition#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="e#4699#4789#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webChat/src/router/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webChat/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="450">
+              <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
               <folding>
-                <marker date="1516361701837" expanded="true" signature="2116:2177" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
+                <marker date="1516700707186" expanded="true" signature="2085:2146" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,18 +66,97 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="425">
+              <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="state.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1516780609723" expanded="true" signature="13222:13230" ph="{&quot;version&quot;: &quot;1.5.2&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="13251:13434" ph="{&quot;version&quot;: &quot;0.3.0&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="13461:13656" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="13673:13848" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="13862:14031" ph="{&quot;version&quot;: &quot;1.4.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="14048:14225" ph="{&quot;version&quot;: &quot;1.30.0&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="14245:14485" ph="{&quot;version&quot;: &quot;2.1.17&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="14442:14479" ph="{&quot;mime-db&quot;: &quot;1.30.0&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="14497:14662" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="14682:14863" ph="{&quot;version&quot;: &quot;0.6.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="14886:15073" ph="{&quot;version&quot;: &quot;4.1.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="15099:15292" ph="{&quot;version&quot;: &quot;0.0.3&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="15313:15553" ph="{&quot;version&quot;: &quot;2.3.0&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="15510:15547" ph="{&quot;ee-first&quot;: &quot;1.1.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="15570:15807" ph="{&quot;version&quot;: &quot;0.0.5&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="15759:15801" ph="{&quot;better-assert&quot;: &quot;1.0.2&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="15825:16064" ph="{&quot;version&quot;: &quot;0.0.5&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="16016:16058" ph="{&quot;better-assert&quot;: &quot;1.0.2&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="16082:16259" ph="{&quot;version&quot;: &quot;1.3.2&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="16283:16472" ph="{&quot;version&quot;: &quot;0.1.7&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="16492:16761" ph="{&quot;version&quot;: &quot;2.0.2&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="16687:16755" ph="{&quot;forwarded&quot;: &quot;0.1.2&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="16773:16938" ph="{&quot;version&quot;: &quot;6.5.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="16960:17145" ph="{&quot;version&quot;: &quot;1.2.0&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="17163:17485" ph="{&quot;version&quot;: &quot;2.3.2&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="17354:17479" ph="{&quot;bytes&quot;: &quot;3.0.0&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="17506:17689" ph="{&quot;version&quot;: &quot;5.1.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="17703:18268" ph="{&quot;version&quot;: &quot;0.16.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="17888:18262" ph="{&quot;debug&quot;: &quot;2.6.9&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="18290:18622" ph="{&quot;version&quot;: &quot;1.13.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="18491:18616" ph="{&quot;encodeurl&quot;: &quot;1.0.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="18646:18835" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="18854:19229" ph="{&quot;version&quot;: &quot;2.0.4&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="19047:19223" ph="{&quot;debug&quot;: &quot;2.6.9&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="19256:19451" ph="{&quot;version&quot;: &quot;1.1.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="19477:20117" ph="{&quot;version&quot;: &quot;2.0.4&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="19684:20111" ph="{&quot;backo2&quot;: &quot;1.0.2&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="20143:20732" ph="{&quot;version&quot;: &quot;3.1.2&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="20350:20482" ph="{&quot;component-emitter&quot;: &quot;1.2.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="20506:20726" ph="{...}" />
+                <marker date="1516780609723" expanded="true" signature="20527:20718" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="20750:20927" ph="{&quot;version&quot;: &quot;1.3.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="20945:21122" ph="{&quot;version&quot;: &quot;0.1.4&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="21139:21408" ph="{&quot;version&quot;: &quot;1.6.15&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="21330:21402" ph="{&quot;media-typer&quot;: &quot;0.3.0&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="21424:21597" ph="{&quot;version&quot;: &quot;1.1.1&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="21613:21786" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+                <marker date="1516780609723" expanded="true" signature="21807:21990" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="state.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webChat/src/store/state.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webChat/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -123,8 +165,8 @@
       <file leaf-file-name="webpack.dev.conf.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webChat/build/webpack.dev.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+            <state relative-caret-position="552">
+              <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -191,17 +233,17 @@
         <option value="$PROJECT_DIR$/server/router/router.js" />
         <option value="$PROJECT_DIR$/server/models/db.js" />
         <option value="$PROJECT_DIR$/server/models/users.js" />
-        <option value="$PROJECT_DIR$/server/package.json" />
         <option value="$PROJECT_DIR$/webChat/src/views/index.vue" />
         <option value="$PROJECT_DIR$/webChat/src/components/scroll.vue" />
-        <option value="$PROJECT_DIR$/webChat/package.json" />
         <option value="$PROJECT_DIR$/webChat/index.html" />
         <option value="$PROJECT_DIR$/webChat/src/router/index.js" />
         <option value="$PROJECT_DIR$/webChat/src/store/state.js" />
         <option value="$PROJECT_DIR$/webChat/src/main.js" />
+        <option value="$PROJECT_DIR$/webChat/src/views/chat.vue" />
+        <option value="$PROJECT_DIR$/webChat/package.json" />
+        <option value="$PROJECT_DIR$/server/package.json" />
         <option value="$PROJECT_DIR$/webChat/build/webpack.dev.conf.js" />
         <option value="$PROJECT_DIR$/server/index.js" />
-        <option value="$PROJECT_DIR$/webChat/src/views/chat.vue" />
         <option value="$PROJECT_DIR$/webChat/src/views/ai.vue" />
       </list>
     </option>
@@ -245,7 +287,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,7 +335,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,11 +393,12 @@
       <workItem from="1514981622771" duration="26881000" />
       <workItem from="1516173922057" duration="23336000" />
       <workItem from="1516267071686" duration="29642000" />
+      <workItem from="1516700537676" duration="6698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141331000" />
+    <option name="totallyTimeSpent" value="148029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -393,60 +436,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/router/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/models/db.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webChat/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           <folding>
-            <marker date="1516361701837" expanded="true" signature="2116:2177" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
+            <marker date="1516700707186" expanded="true" signature="2085:2146" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/models/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/server/models/users.js" />
     <entry file="file://$PROJECT_DIR$/webChat/config/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -468,7 +472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-300">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -513,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
           <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -528,31 +530,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2850">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webChat/src/components/scroll.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2725">
-          <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/webChat/src/components/scroll.vue" />
     <entry file="file://$PROJECT_DIR$/webChat/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -560,68 +545,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
           <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webChat/build/webpack.base.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/models/db.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/models/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webChat/build/webpack.dev.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/router/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webChat/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <marker date="1516361701837" expanded="true" signature="2116:2177" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/server/models/db.js" />
+    <entry file="file://$PROJECT_DIR$/server/models/users.js" />
+    <entry file="file://$PROJECT_DIR$/server/router/router.js" />
     <entry file="file://$PROJECT_DIR$/webChat/src/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -632,7 +561,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webChat/src/views/chat.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
+        <state relative-caret-position="8625">
           <caret line="372" column="30" lean-forward="false" selection-start-line="372" selection-start-column="30" selection-end-line="372" selection-end-column="30" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#transition#0;n#template#0;n#!!top" expanded="true" />
@@ -651,10 +580,490 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webChat/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#140#161#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webChat/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1516700725462" expanded="true" signature="0:351246" ph="{&quot;name&quot;: &quot;webchat&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="107:351244" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="41371:41563" ph="{&quot;version&quot;: &quot;6.26.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="287365:287371" ph="{&quot;version&quot;: &quot;0.11.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="287402:287750" ph="{&quot;version&quot;: &quot;0.10.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="287640:287744" ph="{&quot;babel-runtime&quot;: &quot;6.26.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="287771:288038" ph="{&quot;version&quot;: &quot;0.4.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="287987:288032" ph="{&quot;is-equal-shallow&quot;: &quot;0.1.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="288060:288384" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="288278:288378" ph="{&quot;regenerate&quot;: &quot;1.3.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="288402:288598" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="288619:289136" ph="{&quot;version&quot;: &quot;0.1.5&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="288835:288869" ph="{&quot;jsesc&quot;: &quot;0.5.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="288893:289130" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="288912:289122" ph="{&quot;version&quot;: &quot;0.5.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="289155:289353" ph="{&quot;version&quot;: &quot;0.2.7&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="289388:289618" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="289637:290278" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="289849:290011" ph="{&quot;css-select&quot;: &quot;1.2.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="290035:290272" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="290054:290264" ph="{&quot;version&quot;: &quot;0.3.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="290302:290510" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="290533:290739" ph="{&quot;version&quot;: &quot;1.6.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="290758:291014" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="290970:291008" ph="{&quot;is-finite&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="291041:291255" ph="{&quot;version&quot;: &quot;2.1.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="291284:291502" ph="{&quot;version&quot;: &quot;1.2.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="291533:291755" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="291781:292368" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="292007:292080" ph="{&quot;caller-path&quot;: &quot;0.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="292104:292362" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="292130:292354" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="292391:292597" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="292614:292867" ph="{&quot;version&quot;: &quot;1.5.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="292822:292861" ph="{&quot;path-parse&quot;: &quot;1.0.5&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="292888:293151" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="293104:293145" ph="{&quot;resolve-from&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="293173:293377" ph="{&quot;version&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="293401:293697" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="293623:293691" ph="{&quot;onetime&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="293718:293979" ph="{&quot;version&quot;: &quot;0.1.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="293934:293973" ph="{&quot;align-text&quot;: &quot;0.1.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="293995:294240" ph="{&quot;version&quot;: &quot;2.6.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="294201:294234" ph="{&quot;glob&quot;: &quot;7.1.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="294259:294544" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="294471:294538" ph="{&quot;hash-base&quot;: &quot;2.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="294563:294814" ph="{&quot;version&quot;: &quot;0.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="294775:294808" ph="{&quot;once&quot;: &quot;1.4.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="294833:295086" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="295045:295080" ph="{&quot;aproba&quot;: &quot;1.2.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="295103:295297" ph="{&quot;version&quot;: &quot;3.1.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="295318:295501" ph="{&quot;version&quot;: &quot;5.1.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="295514:295700" ph="{&quot;version&quot;: &quot;1.2.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="295722:295978" ph="{&quot;version&quot;: &quot;0.3.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="295940:295972" ph="{&quot;ajv&quot;: &quot;5.5.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="295999:296201" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="296221:296483" ph="{&quot;version&quot;: &quot;1.10.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="296437:296477" ph="{&quot;node-forge&quot;: &quot;0.6.33&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="296499:296691" ph="{&quot;version&quot;: &quot;5.4.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="296705:297547" ph="{&quot;version&quot;: &quot;0.16.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="296909:297283" ph="{&quot;debug&quot;: &quot;2.6.9&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="297307:297541" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="297325:297533" ph="{&quot;version&quot;: &quot;1.4.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="297577:297797" ph="{&quot;version&quot;: &quot;1.4.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="297818:298253" ph="{&quot;version&quot;: &quot;1.9.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="298034:298247" ph="{&quot;accepts&quot;: &quot;1.3.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="298275:298626" ph="{&quot;version&quot;: &quot;1.13.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="298495:298620" ph="{&quot;encodeurl&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="298648:298852" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="298880:299096" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="299118:299322" ph="{&quot;version&quot;: &quot;1.0.5&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="299346:299554" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="299570:299851" ph="{&quot;version&quot;: &quot;2.4.9&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="299776:299845" ph="{&quot;inherits&quot;: &quot;2.0.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="299876:300148" ph="{&quot;version&quot;: &quot;1.2.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="300100:300142" ph="{&quot;shebang-regex&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="300171:300377" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="300394:300699" ph="{&quot;version&quot;: &quot;0.7.8&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="300602:300693" ph="{&quot;glob&quot;: &quot;7.1.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="300719:300919" ph="{&quot;version&quot;: &quot;0.1.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="300940:301142" ph="{&quot;version&quot;: &quot;3.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="301157:301347" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="301367:301567" ph="{&quot;version&quot;: &quot;0.0.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="301593:302233" ph="{&quot;version&quot;: &quot;2.0.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="301800:302227" ph="{&quot;backo2&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="302259:302848" ph="{&quot;version&quot;: &quot;3.1.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="302466:302598" ph="{&quot;component-emitter&quot;: &quot;1.2.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="302622:302842" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="302643:302834" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="302864:303147" ph="{&quot;version&quot;: &quot;0.3.18&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="303072:303141" ph="{&quot;faye-websocket&quot;: &quot;0.10.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="303170:303950" ph="{&quot;version&quot;: &quot;1.1.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="303390:303577" ph="{&quot;debug&quot;: &quot;2.6.9&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="303601:303944" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="303629:303936" ph="{&quot;version&quot;: &quot;0.11.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="303873:303926" ph="{&quot;websocket-driver&quot;: &quot;0.7.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="303969:304228" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="304181:304222" ph="{&quot;is-plain-obj&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="304253:304463" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="304483:304683" ph="{&quot;version&quot;: &quot;0.6.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="304711:305264" ph="{&quot;version&quot;: &quot;0.4.18&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="304943:304982" ph="{&quot;source-map&quot;: &quot;0.5.7&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="305006:305258" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="305030:305250" ph="{&quot;version&quot;: &quot;0.5.7&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="305286:305555" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="305504:305549" ph="{&quot;spdx-license-ids&quot;: &quot;1.2.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="305586:305808" ph="{&quot;version&quot;: &quot;1.0.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="305834:306046" ph="{&quot;version&quot;: &quot;1.2.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="306060:306469" ph="{&quot;version&quot;: &quot;3.4.7&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="306262:306463" ph="{&quot;debug&quot;: &quot;2.6.9&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="306493:306936" ph="{&quot;version&quot;: &quot;2.0.20&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="306717:306930" ph="{&quot;debug&quot;: &quot;2.6.9&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="306956:307156" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="307170:307418" ph="{&quot;version&quot;: &quot;5.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="307372:307412" ph="{&quot;safe-buffer&quot;: &quot;5.1.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="307438:307638" ph="{&quot;version&quot;: &quot;1.0.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="307656:307852" ph="{&quot;version&quot;: &quot;1.3.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="307879:308186" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="308107:308180" ph="{&quot;inherits&quot;: &quot;2.0.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="308207:308504" ph="{&quot;version&quot;: &quot;1.2.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="308423:308498" ph="{&quot;end-of-stream&quot;: &quot;1.4.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="308525:308922" ph="{&quot;version&quot;: &quot;2.7.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="308741:308916" ph="{&quot;builtin-status-codes&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="308944:309148" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="309175:309389" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="309412:309677" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="309632:309671" ph="{&quot;strip-ansi&quot;: &quot;3.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="309699:310880" ph="{&quot;version&quot;: &quot;2.1.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="309917:310000" ph="{&quot;is-fullwidth-code-point&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="310024:310874" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="310048:310268" ph="{&quot;version&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="310305:310551" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="310575:310866" ph="{&quot;version&quot;: &quot;4.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="310809:310856" ph="{&quot;ansi-regex&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="310904:311172" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="311126:311166" ph="{&quot;safe-buffer&quot;: &quot;5.1.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="311192:311451" ph="{&quot;version&quot;: &quot;3.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="311406:311445" ph="{&quot;ansi-regex&quot;: &quot;2.1.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="311470:311668" ph="{&quot;version&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="311687:311885" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="311907:312169" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="312125:312163" ph="{&quot;get-stdin&quot;: &quot;4.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="312198:312416" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="312432:313856" ph="{&quot;version&quot;: &quot;0.54.5&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="312640:312812" ph="{&quot;css-parse&quot;: &quot;1.7.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="312836:313850" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="312854:313304" ph="{&quot;version&quot;: &quot;7.0.6&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="313076:313294" ph="{&quot;fs.realpath&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="313321:313527" ph="{&quot;version&quot;: &quot;0.5.8&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="313551:313842" ph="{&quot;version&quot;: &quot;0.1.43&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="313787:313832" ph="{&quot;amdefine&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="313879:314208" ph="{&quot;version&quot;: &quot;3.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="314099:314202" ph="{&quot;loader-utils&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="314232:314497" ph="{&quot;version&quot;: &quot;4.5.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="314454:314491" ph="{&quot;has-flag&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="314511:314914" ph="{&quot;version&quot;: &quot;0.7.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="314713:314908" ph="{&quot;coa&quot;: &quot;1.0.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="314929:316895" ph="{&quot;version&quot;: &quot;3.8.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="315133:315317" ph="{&quot;ajv&quot;: &quot;4.11.8&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="315341:316889" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="315358:315675" ph="{&quot;version&quot;: &quot;4.11.8&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="315580:315665" ph="{&quot;co&quot;: &quot;4.6.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="315701:315925" ph="{&quot;version&quot;: &quot;1.5.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="315950:316172" ph="{&quot;version&quot;: &quot;2.2.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="316191:316625" ph="{&quot;version&quot;: &quot;1.1.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="316415:316615" ph="{&quot;ansi-styles&quot;: &quot;2.2.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="316653:316881" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="316912:317106" ph="{&quot;version&quot;: &quot;0.2.8&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="317126:317326" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="317343:317537" ph="{&quot;version&quot;: &quot;2.3.8&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="317555:317841" ph="{&quot;version&quot;: &quot;2.0.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="317765:317835" ph="{&quot;readable-stream&quot;: &quot;2.3.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="317857:318049" ph="{&quot;version&quot;: &quot;0.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="318069:318269" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="318296:318571" ph="{&quot;version&quot;: &quot;2.0.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="318524:318565" ph="{&quot;setimmediate&quot;: &quot;1.0.5&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="318589:318766" ph="{&quot;version&quot;: &quot;0.1.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="318790:318998" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="319026:319242" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="319260:319456" ph="{&quot;version&quot;: &quot;1.0.6&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="319479:319685" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="319705:319905" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="319929:320137" ph="{&quot;version&quot;: &quot;0.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="320157:320416" ph="{&quot;version&quot;: &quot;0.3.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="320371:320410" ph="{&quot;prelude-ls&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="320433:320721" ph="{&quot;version&quot;: &quot;1.6.15&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="320643:320715" ph="{&quot;media-typer&quot;: &quot;0.3.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="320741:320941" ph="{&quot;version&quot;: &quot;0.0.6&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="320960:321248" ph="{&quot;version&quot;: &quot;3.3.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="321172:321242" ph="{&quot;commander&quot;: &quot;2.12.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="321278:321522" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="321555:322455" ph="{&quot;version&quot;: &quot;1.1.5&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="321795:322070" ph="{&quot;cacache&quot;: &quot;10.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="322094:322449" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="322117:322441" ph="{&quot;version&quot;: &quot;3.2.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="322349:322431" ph="{&quot;commander&quot;: &quot;2.12.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="322471:322644" ph="{&quot;version&quot;: &quot;1.1.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="322658:322846" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="322862:323113" ph="{&quot;version&quot;: &quot;4.1.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="323068:323107" ph="{&quot;macaddress&quot;: &quot;0.2.8&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="323128:323318" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="323343:323613" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="323567:323607" ph="{&quot;unique-slug&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="323634:323896" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="323850:323890" ph="{&quot;imurmurhash&quot;: &quot;0.1.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="323912:324104" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="324124:324324" ph="{&quot;version&quot;: &quot;1.1.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="324337:324884" ph="{&quot;version&quot;: &quot;0.11.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="324539:324608" ph="{&quot;punycode&quot;: &quot;1.3.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="324632:324878" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="324654:324870" ph="{&quot;version&quot;: &quot;1.3.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="324904:325190" ph="{&quot;version&quot;: &quot;0.5.9&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="325118:325184" ph="{&quot;loader-utils&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="325209:325792" ph="{&quot;version&quot;: &quot;1.2.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="325421:325498" ph="{&quot;querystringify&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="325522:325786" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="325550:325778" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="325811:326068" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="326023:326062" ph="{&quot;os-homedir&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="326082:326599" ph="{&quot;version&quot;: &quot;0.10.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="326286:326323" ph="{&quot;inherits&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="326347:326593" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="326369:326585" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="326623:326831" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="326846:327036" ph="{&quot;version&quot;: &quot;0.4.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="327273:327461" ph="{&quot;version&quot;: &quot;2.0.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="327499:327838" ph="{&quot;version&quot;: &quot;3.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="327749:327832" ph="{&quot;spdx-correct&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="327852:328040" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="328057:328251" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="328274:328536" ph="{&quot;version&quot;: &quot;0.0.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="328494:328530" ph="{&quot;indexof&quot;: &quot;0.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="328549:328718" ph="{&quot;version&quot;: &quot;2.5.13&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="328746:328962" ph="{&quot;version&quot;: &quot;2.2.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="328982:329663" ph="{&quot;version&quot;: &quot;13.6.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="329198:329657" ph="{&quot;consolidate&quot;: &quot;0.14.5&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="329683:329864" ph="{&quot;version&quot;: &quot;3.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="329890:330192" ph="{&quot;version&quot;: &quot;3.0.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="330116:330186" ph="{&quot;hash-sum&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="330223:330528" ph="{&quot;version&quot;: &quot;2.5.13&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="330461:330522" ph="{&quot;de-indent&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="330566:330802" ph="{&quot;version&quot;: &quot;1.6.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="330816:330985" ph="{&quot;version&quot;: &quot;3.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="331004:331318" ph="{&quot;version&quot;: &quot;1.4.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="331216:331312" ph="{&quot;async&quot;: &quot;2.6.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="331332:331588" ph="{&quot;version&quot;: &quot;1.7.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="331534:331582" ph="{&quot;minimalistic-assert&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="331605:334108" ph="{&quot;version&quot;: &quot;3.10.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="331815:332517" ph="{&quot;acorn&quot;: &quot;5.3.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="332541:334102" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="332565:332785" ph="{&quot;version&quot;: &quot;0.5.7&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="332808:333665" ph="{&quot;version&quot;: &quot;2.8.29&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="333042:333165" ph="{&quot;source-map&quot;: &quot;0.5.7&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="333193:333655" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="333216:333643" ph="{&quot;version&quot;: &quot;3.10.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="333462:333629" ph="{&quot;camelcase&quot;: &quot;1.2.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="333702:334094" ph="{&quot;version&quot;: &quot;0.4.6&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="333962:334084" ph="{&quot;source-map&quot;: &quot;0.5.7&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="334141:335684" ph="{&quot;version&quot;: &quot;2.9.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="334381:334690" ph="{&quot;acorn&quot;: &quot;5.3.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="334714:335678" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="334739:334961" ph="{&quot;version&quot;: &quot;2.2.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="334980:335414" ph="{&quot;version&quot;: &quot;1.1.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="335204:335404" ph="{&quot;ansi-styles&quot;: &quot;2.2.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="335442:335670" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="335716:336384" ph="{&quot;version&quot;: &quot;1.12.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="335956:336120" ph="{&quot;memory-fs&quot;: &quot;0.4.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="336144:336378" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="336162:336370" ph="{&quot;version&quot;: &quot;1.6.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="336412:343255" ph="{&quot;version&quot;: &quot;2.9.7&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="336642:337498" ph="{&quot;ansi-html&quot;: &quot;0.0.7&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="337522:343249" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="337545:337763" ph="{&quot;version&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="337782:338134" ph="{&quot;version&quot;: &quot;3.2.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="338006:338124" ph="{&quot;string-width&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="338153:338426" ph="{&quot;version&quot;: &quot;3.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="338377:338416" ph="{&quot;ms&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="338447:338772" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="338675:338762" ph="{&quot;path-exists&quot;: &quot;2.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="338800:339238" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="339042:339228" ph="{&quot;graceful-fs&quot;: &quot;4.1.11&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="339261:339544" ph="{&quot;version&quot;: &quot;1.4.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="339493:339534" ph="{&quot;lcid&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="339569:339866" ph="{&quot;version&quot;: &quot;2.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="339805:339856" ph="{&quot;pinkie-promise&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="339889:340248" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="340121:340238" ph="{&quot;graceful-fs&quot;: &quot;4.1.11&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="340266:340474" ph="{&quot;version&quot;: &quot;2.3.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="340496:340868" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="340726:340858" ph="{&quot;load-json-file&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="340893:341216" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="341129:341206" ph="{&quot;find-up&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="341242:341623" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="341480:341613" ph="{&quot;code-point-at&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="341646:341932" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="341878:341922" ph="{&quot;is-utf8&quot;: &quot;0.2.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="341958:342182" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="342201:342921" ph="{&quot;version&quot;: &quot;6.6.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="342425:342911" ph="{&quot;camelcase&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="342947:343241" ph="{&quot;version&quot;: &quot;4.2.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="343185:343231" ph="{&quot;camelcase&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="343278:343540" ph="{&quot;version&quot;: &quot;4.1.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="343498:343534" ph="{&quot;lodash&quot;: &quot;4.17.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="343565:343870" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="343789:343864" ph="{&quot;source-list-map&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="343896:344212" ph="{&quot;version&quot;: &quot;0.7.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="344122:344206" ph="{&quot;http-parser-js&quot;: &quot;0.4.9&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="344242:344462" ph="{&quot;version&quot;: &quot;0.1.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="344476:344664" ph="{&quot;version&quot;: &quot;3.6.4&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="344685:344887" ph="{&quot;version&quot;: &quot;0.9.9&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="344902:345146" ph="{&quot;version&quot;: &quot;1.3.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="345106:345140" ph="{&quot;isexe&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="345168:345372" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="345393:345595" ph="{&quot;version&quot;: &quot;0.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="345613:345809" ph="{&quot;version&quot;: &quot;0.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="345830:346112" ph="{&quot;version&quot;: &quot;1.5.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="346046:346106" ph="{&quot;errno&quot;: &quot;0.1.6&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="346131:346860" ph="{&quot;version&quot;: &quot;2.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="346343:346415" ph="{&quot;string-width&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="346439:346854" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="346465:346846" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="346703:346836" ph="{&quot;code-point-at&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="346876:347068" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="347083:347328" ph="{&quot;version&quot;: &quot;0.2.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="347287:347322" ph="{&quot;mkdirp&quot;: &quot;0.5.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="347340:347626" ph="{&quot;version&quot;: &quot;3.3.3&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="347519:347620" ph="{&quot;async-limiter&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="347652:347864" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="347892:348089" ph="{&quot;version&quot;: &quot;1.5.5&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="348104:348294" ph="{&quot;version&quot;: &quot;4.0.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="348308:348496" ph="{&quot;version&quot;: &quot;3.2.1&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="348513:348707" ph="{&quot;version&quot;: &quot;2.1.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="348722:350497" ph="{&quot;version&quot;: &quot;8.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="348926:349356" ph="{&quot;camelcase&quot;: &quot;4.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="349380:350491" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="349403:349621" ph="{&quot;version&quot;: &quot;4.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="349640:350483" ph="{&quot;version&quot;: &quot;3.2.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="349864:349982" ph="{&quot;string-width&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="350010:350473" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="350040:350461" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="350298:350447" ph="{&quot;code-point-at&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="350519:351054" ph="{&quot;version&quot;: &quot;7.0.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="350737:350775" ph="{&quot;camelcase&quot;: &quot;4.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="350799:351048" ph="{...}" />
+            <marker date="1516700725462" expanded="true" signature="350822:351040" ph="{&quot;version&quot;: &quot;4.1.0&quot;...}" />
+            <marker date="1516700725462" expanded="true" signature="351069:351240" ph="{&quot;version&quot;: &quot;0.1.2&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webChat/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <marker date="1516700707186" expanded="true" signature="2085:2146" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webChat/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webChat/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webChat/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1516780609723" expanded="true" signature="13222:13230" ph="{&quot;version&quot;: &quot;1.5.2&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="13251:13434" ph="{&quot;version&quot;: &quot;0.3.0&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="13461:13656" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="13673:13848" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="13862:14031" ph="{&quot;version&quot;: &quot;1.4.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="14048:14225" ph="{&quot;version&quot;: &quot;1.30.0&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="14245:14485" ph="{&quot;version&quot;: &quot;2.1.17&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="14442:14479" ph="{&quot;mime-db&quot;: &quot;1.30.0&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="14497:14662" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="14682:14863" ph="{&quot;version&quot;: &quot;0.6.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="14886:15073" ph="{&quot;version&quot;: &quot;4.1.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="15099:15292" ph="{&quot;version&quot;: &quot;0.0.3&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="15313:15553" ph="{&quot;version&quot;: &quot;2.3.0&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="15510:15547" ph="{&quot;ee-first&quot;: &quot;1.1.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="15570:15807" ph="{&quot;version&quot;: &quot;0.0.5&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="15759:15801" ph="{&quot;better-assert&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="15825:16064" ph="{&quot;version&quot;: &quot;0.0.5&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="16016:16058" ph="{&quot;better-assert&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="16082:16259" ph="{&quot;version&quot;: &quot;1.3.2&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="16283:16472" ph="{&quot;version&quot;: &quot;0.1.7&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="16492:16761" ph="{&quot;version&quot;: &quot;2.0.2&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="16687:16755" ph="{&quot;forwarded&quot;: &quot;0.1.2&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="16773:16938" ph="{&quot;version&quot;: &quot;6.5.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="16960:17145" ph="{&quot;version&quot;: &quot;1.2.0&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="17163:17485" ph="{&quot;version&quot;: &quot;2.3.2&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="17354:17479" ph="{&quot;bytes&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="17506:17689" ph="{&quot;version&quot;: &quot;5.1.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="17703:18268" ph="{&quot;version&quot;: &quot;0.16.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="17888:18262" ph="{&quot;debug&quot;: &quot;2.6.9&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="18290:18622" ph="{&quot;version&quot;: &quot;1.13.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="18491:18616" ph="{&quot;encodeurl&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="18646:18835" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="18854:19229" ph="{&quot;version&quot;: &quot;2.0.4&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="19047:19223" ph="{&quot;debug&quot;: &quot;2.6.9&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="19256:19451" ph="{&quot;version&quot;: &quot;1.1.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="19477:20117" ph="{&quot;version&quot;: &quot;2.0.4&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="19684:20111" ph="{&quot;backo2&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="20143:20732" ph="{&quot;version&quot;: &quot;3.1.2&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="20350:20482" ph="{&quot;component-emitter&quot;: &quot;1.2.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="20506:20726" ph="{...}" />
+            <marker date="1516780609723" expanded="true" signature="20527:20718" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="20750:20927" ph="{&quot;version&quot;: &quot;1.3.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="20945:21122" ph="{&quot;version&quot;: &quot;0.1.4&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="21139:21408" ph="{&quot;version&quot;: &quot;1.6.15&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="21330:21402" ph="{&quot;media-typer&quot;: &quot;0.3.0&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="21424:21597" ph="{&quot;version&quot;: &quot;1.1.1&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="21613:21786" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1516780609723" expanded="true" signature="21807:21990" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/webChat/src/views/ai.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="62" column="22" lean-forward="true" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+        <state relative-caret-position="400">
+          <caret line="65" column="24" lean-forward="false" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
@@ -666,18 +1075,8 @@
     <entry file="file://$PROJECT_DIR$/webChat/src/store/state.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webChat/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="e#140#161#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

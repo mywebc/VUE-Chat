@@ -37,18 +37,18 @@ const devWebpackConfig = merge(baseWebpackConfig, {
     watchOptions: {
       poll: config.dev.poll,
     },
-    before(app) {
-      app.get("/robot",function (req,res) {
-        var url = "http://api.qingyunke.com/api.php"
-        axios.get(url,{
-          params:req.query
-        }).then((response)=>{
-          res.json(response.data)
-        }).catch((e)=>{
-          console.log(e)
-        })
-      })
-    }
+    // before(app) {
+    //   app.get("/robot",function (req,res) {
+    //     var url = "http://api.qingyunke.com/api.php"
+    //     axios.get(url,{
+    //       params:req.query
+    //     }).then((response)=>{
+    //       res.json(response.data)
+    //     }).catch((e)=>{
+    //       console.log(e)
+    //     })
+    //   })
+    // }
   },
   plugins: [
     new webpack.DefinePlugin({

@@ -63,7 +63,7 @@
           other: true,
           content: this.$store.state.robot,
           date: this.moment().format('YYYY-MM-DD HH:mm:ss'),
-          loginInfo: '大宝宝'
+          loginInfo: '菲菲宝宝'
         }],
         content:''
       }
@@ -98,7 +98,7 @@
           // 自动滑到底部
           this.changLine()
         }
-        this.axios.get(`/robot`,{
+        this.axios.get(`http://localhost:3000/robot`,{
           params:{
             key:'free',
             appid:0,
