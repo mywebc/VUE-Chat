@@ -98,7 +98,7 @@
           // 自动滑到底部
           this.changLine()
         }
-        this.axios.get(`http://localhost:3000/robot`,{
+        this.axios.get(`http://chenxiaolani.com:3000/robot`,{
           params:{
             key:'free',
             appid:0,
